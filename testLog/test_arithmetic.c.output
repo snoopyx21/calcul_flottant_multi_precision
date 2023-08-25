@@ -1,0 +1,4 @@
+testPreCompiled/test_arithmetic.c: In function ‘main’:
+testPreCompiled/test_arithmetic.c:95:26: warning: format ‘%f’ expects a matching ‘double’ argument [-Wformat=]
+     printf("e=4.2-0.5; %6f 3.700000\n");
+                        ~~^

@@ -1,0 +1,4 @@
+testPreCompiled/opti_test_arithmetic.c: In function ‘main’:
+testPreCompiled/opti_test_arithmetic.c:79:26: warning: format ‘%f’ expects a matching ‘double’ argument [-Wformat=]
+     printf("e=4.2-0.5; %6f 3.700000\n");
+                        ~~^

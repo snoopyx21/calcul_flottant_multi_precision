@@ -1,0 +1,3 @@
+syntax error
+File syntax.y: Unexpected Error Occurred - function 'main'
+	Parsing failed because of invalid input,i.e., input that contains a syntax error or that causes YYABORT to be invoked

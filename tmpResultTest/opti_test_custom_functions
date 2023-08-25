@@ -1,0 +1,4 @@
+printf;b=b+1; 0 0
+printf;b=b+1; 10 10
+myfunction1(2,3); 8.000000 8.000000
+myfunction3(2+3,sqrt(4),"MPC_RNDZZ") 25.000000 25.000000

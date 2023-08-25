@@ -1,0 +1,5 @@
+testPreCompiled/test_using_undefined_variable.c: In function ‘main’:
+testPreCompiled/test_using_undefined_variable.c:15:30: error: ‘undefined_variable’ undeclared (first use in this function)
+     mpc_set_d(C2MP___temp_0, undefined_variable, MPC_RNDZZ);
+                              ^~~~~~~~~~~~~~~~~~
+testPreCompiled/test_using_undefined_variable.c:15:30: note: each undeclared identifier is reported only once for each function it appears in
